@@ -10,7 +10,7 @@ Studying :   I'm just started Python studies for Network Automation.
 A little about me:
 
 Hobbies      :   Books, Games, Movies and Basketball.  
-Social       :   Connected here for information and stay tun. [on twitter](https://twitter.com.MarcusVCastilho/).  
+Social       :   Connected here for information and stay tun. [on twitter](https://twitter.com/MarcusVCastilho/).  
 Professional :   Reading about professionals here. [on linkedin](https://www.linkedin.com/in/marcusvcastilho/?originalSubdomain=br).
 
 <!--
