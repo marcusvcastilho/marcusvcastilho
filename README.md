@@ -4,7 +4,7 @@
 
 This space is a simple introduction around my interests that you will probably find over here for now.
 
-Working  :   I'm currently working on Network Provisioning at IP.  
+Working  :   I'm currently working on Network Provisioning at an ISP.  
 Studying :   I'm just started Python studies for Network Automation.
 
 A little about me:
